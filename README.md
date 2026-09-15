@@ -1,6 +1,6 @@
 # Sales Tracker in Google Sheets
 
-A lightweight sales tracker that auto-calculates **daily, weekly, and monthly totals** from raw sales entries — built to practice structuring a spreadsheet for ongoing data entry and automatic aggregation.
+A lightweight sales tracker that auto-calculates **daily, weekly, and monthly totals** from raw sales entries, built to practice structuring a spreadsheet for ongoing data entry and automatic aggregation.
 
 ## Overview
 
@@ -58,4 +58,4 @@ Five `SUMIFS` results were independently recomputed from the raw data and matche
 
 ## Sample dataset
 
-`retail_sales_dataset.xlsx` — 590 unique transactions across 75 days (Jun 1–Aug 14, 2026), 24 products across 9 categories, 5 store locations.
+`retail_sales_dataset.xlsx`  590 unique transactions across 75 days (Jun 1–Aug 14, 2026), 24 products across 9 categories, 5 store locations.
